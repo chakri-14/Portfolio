@@ -14,7 +14,7 @@ const Skills = () => {
         <div className="col-6 col-lg-4 py-3 px-3 text-center">
           <a href="#" className="text-decoration-none">
             <img
-              src="../src/assets/icons/html.png"
+              src="../public/assets/icons/html.png"
               alt="HTML"
               className="img-fluid w-50"
             />
@@ -26,7 +26,7 @@ const Skills = () => {
         <div className="col-6 col-lg-4 py-3 px-3 text-center">
           <a href="#" className="text-decoration-none">
             <img
-              src="../src/assets/icons/css.png"
+              src="../public/assets/icons/css.png"
               alt="CSS"
               className="img-fluid w-50"
             />
@@ -38,7 +38,7 @@ const Skills = () => {
         <div className="col-6 col-lg-4 py-3 px-3 text-center">
           <a href="#" className="text-decoration-none">
             <img
-              src="../src/assets/icons/js.png"
+              src="../public/assets/icons/js.png"
               alt="JavaScript"
               className="img-fluid w-50"
             />
@@ -50,7 +50,7 @@ const Skills = () => {
         <div className="col-6 col-lg-4 py-3 px-3 text-center">
           <a href="#" className="text-decoration-none">
             <img
-              src="../src/assets/icons/bootstrap.png"
+              src="../public/assets/icons/bootstrap.png"
               alt="Bootstrap"
               className="img-fluid w-50"
             />
@@ -62,7 +62,7 @@ const Skills = () => {
         <div className="col-6 col-lg-4 py-3 px-3 text-center">
           <a href="#" className="text-decoration-none">
             <img
-              src="../src/assets/icons/python.png"
+              src="../public/assets/icons/python.png"
               alt="Python"
               className="img-fluid w-50"
             />
@@ -74,7 +74,7 @@ const Skills = () => {
         <div className="col-6 col-lg-4 py-3 px-3 text-center">
           <a href="#" className="text-decoration-none">
             <img
-              src="../src/assets/icons/react.png"
+              src="../public/assets/icons/react.png"
               alt="React"
               className="img-fluid w-50"
             />
@@ -92,7 +92,7 @@ const Skills = () => {
         time..!!
       </p>
       <img
-        src="../src/assets/sign.png"
+        src="../public/assets/sign.png"
         alt="Chakri"
         className="img-fluid rounded w-50"
         id="sign"
