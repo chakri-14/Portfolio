@@ -1,5 +1,9 @@
+*{
+  align-items: center;
+}
 #skillsContainer {
   background: var(--second-bg-color);
+  align-items: center;
 }
 
 #pythonIcon {

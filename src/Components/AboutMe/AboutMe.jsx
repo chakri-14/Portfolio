@@ -4,19 +4,12 @@ import "./AboutMe.css";
 const AboutMe = () => {
   return (
     <div className="container-fluid text-center my-5 py-5" id="about">
-      <h3 className="py-5 ">
+      <h3 className="py-5">
         About <span>Mee</span>!
       </h3>
       <div className="container my-5">
-        <div className="row align-items-center">
-          <div className="col-12 col-lg-4">
-            <img
-              src="../src/assets/chakri-2.png"
-              alt="Chakri"
-              className="img-fluid shadow"
-            />
-          </div>
-          <div className="col-12 col-lg-7 mx-3 pl-5 aboutRight">
+        <div className="row justify-content-center align-items-center">
+          <div className="col-12 col-lg-8 mx-3 aboutRight">
             <h4 className="mt-5">Mulaparthi Chakralikith</h4>
             <h6 className="mt-4 mb-5">
               <i>
@@ -35,9 +28,9 @@ const AboutMe = () => {
               skills and make meaningful contributions to projects. Let's work
               together!
             </p>
-            <button href="#" className="button mt-3 mb-4">
+            <a href="#" className="button mt-3 mb-4">
               Read More...😉
-            </button>
+            </a>
           </div>
         </div>
       </div>
@@ -46,3 +39,4 @@ const AboutMe = () => {
 };
 
 export default AboutMe;
+
