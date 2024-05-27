@@ -50,7 +50,7 @@ const Cover = () => {
         <div className="col-12 col-lg-4 offset-lg-1 text-center order-1 order-lg-2 py-5">
           <img
             src="../src/assets/chakri-modified.png"
-            alt="sisi_tarak"
+            alt="chakri"
             className="img-fluid"
           />
         </div>
